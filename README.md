@@ -3,10 +3,10 @@
 ## Full Stack Developer | C#.NET | React JS | Web Development Enthusiast
 
 Welcome to my GitHub! 👨‍💻  
-I am a passionate and experienced Full Stack Developer with over **2.6 years** of hands-on experience in building scalable, performant, and innovative applications.
+I am a passionate and experienced Full Stack Developer with over **3.2 years** of hands-on experience in building scalable, performant, and innovative applications.
 
 ### 💼 About Me
--  **Experience**: 2 years & 6 months as a Full Stack Developer
+-  **Experience**: 3 years & 2 months as a Full Stack Developer
 -  **Specialization**: C#.NET, ASP.NET Core, React JS, SQL, Web APIs, and more
 -  **I love to code**: I enjoy solving complex problems and building solutions that scale. My skillset covers both front-end and back-end technologies, and I have experience working with a wide range of tools and frameworks.
 
@@ -45,8 +45,8 @@ I am a passionate and experienced Full Stack Developer with over **2.6 years** o
 
 ### 📜 My Work Experience
 
-**Full Stack Developer** | _Company Name_  
-_Duration: 2 years & 6 months_  
+**Full Stack Developer** |   
+_Duration: 3 years & 2 months_  
 Responsibilities:
 - Developed and maintained full-stack web applications using **C#.NET**, **ASP.NET Core**, **React JS**, and **SQL Server**.
 - Designed and implemented **RESTful Web APIs** and integrated with **Web Services**.
